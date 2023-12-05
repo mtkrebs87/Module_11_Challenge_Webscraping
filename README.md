@@ -1,11 +1,10 @@
 # Module_11_Challenge_Webscraping
 
 SOURCES:
-https://matplotlib.org/
+https://matplotlib.org/  
 https://pandas.pydata.org/docs/
 
 
-I also included in extra bar graph in the mars_weather.ipynb. The extra bar graph in question
 
 
 Background
