@@ -1,5 +1,13 @@
 # Module_11_Challenge_Webscraping
 
+SOURCES:
+https://matplotlib.org/
+https://pandas.pydata.org/docs/
+
+
+I also included in extra bar graph in the mars_weather.ipynb. The extra bar graph in question
+
+
 Background
 
 You’re now ready to take on a full web-scraping and data analysis project. You’ve learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. You’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
